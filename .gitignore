@@ -1,0 +1,11 @@
+Temp
+Library
+Obj
+*.pidb
+_TeamCity*
+*.sln
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
